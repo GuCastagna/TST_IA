@@ -5,7 +5,7 @@
 body {
     font-family: "Chakra Petch", sans-serif;
     /* Define a fonte padrão */
-    background-image: url('segTrab.jpg');
+    background-image: url('Wallpaper1.jpg');
     background-size: cover;
     /* Ajusta a imagem para cobrir toda a área */
     background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body {
 h1 {
     font-size: 2.5rem;
     /* Tamanho da fonte */
-    color: #ffffff;
+    color: #2797b3ad;
     /* Cor do texto */
     text-align: center;
     /* Alinha o texto ao centro */
@@ -164,11 +164,11 @@ section button:hover {
 
 /* Estiliza o rodapé da página */
 footer {
-    background-image: url('Footer.jpg');
+    background-image: url('Wallpaper2.jpg');
     background-size: cover;
     /* Ajusta a imagem para cobrir toda a área */
     background-repeat: no-repeat;
-    color: #4da4cf;
+    color: #ffffff;
     /* Cor do texto */
     font-style: italic;
     text-align: center;
