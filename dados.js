@@ -14,6 +14,59 @@ let dados = [{
     link: "https://www.produttivo.com.br/blog/ppci-plano-de-prevencao-e-protecao-contra-incendios/",
     tags: "plano prevenção contra incêndios residência obras cidade"
 }, {
+    titulo: "NRs (Normas Regulamentadoras)",
+    descricao: "Conjunto de normas que regulamentam as condições de trabalho no Brasil, estabelecendo regras para garantir a saúde e a segurança dos trabalhadores.",
+    link: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora#:~:text=Consistem%20em%20obriga%C3%A7%C3%B5es%2C%20direitos%20e,8%20de%20junho%20de%201978.",
+    tags: "nrs legislação trabalho segurança saúde"
+},
+{
+    titulo: "CIPA (Comissão Interna de Prevenção de Acidentes)",
+    descricao: "Órgão paritário, permanente e de caráter consultivo e deliberativo, composto por representantes do empregador e dos empregados, com a finalidade de prevenir acidentes e doenças ocupacionais.",
+    link: "https://www.gupy.io/blog/cipa",
+    tags: "cipa segurança do trabalho prevenção acidentes"
+},
+{
+    titulo: "PCMSO (Programa de Controle Médico de Saúde Ocupacional)",
+    descricao: "Conjunto de medidas que objetivam a promoção e a preservação da saúde dos trabalhadores, através da realização de exames médicos periódicos e acompanhamento da saúde dos trabalhadores.",
+    link: "https://www.fiepr.org.br/sindicatos/sindicalpr/FreeComponent3302content19863.shtml#:~:text=O%20PCMSO%20%C3%A9%20um%20programa,danos%20%C3%A0%20sa%C3%BAde%20do%20empregado.",
+    link: "pcmso saúde ocupacional exame médico"
+},
+{
+    titulo: "Alvará de Funcionamento do Corpo de Bombeiros",
+    descricao: "Documento que atesta que o estabelecimento possui as condições mínimas de segurança contra incêndio e pânico, conforme legislação vigente.",
+    link: "https://www.bombeiros.rs.gov.br/upload/arquivos/202001/17121500-dec-51803-14-ate-54942-19.pdf",
+    tags: "alvara de funcionamento bombeiros segurança contra incêndio"
+},
+{
+    titulo: "Proteção contra Quedas",
+    descricao: "Conjunto de medidas e equipamentos utilizados para proteger os trabalhadores contra quedas de altura.",
+    link: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/manuais-e-publicacoes/cartilha_trabalho_em_altura.pdf",
+    tags: "proteção contra quedas segurança trabalho altura"
+},
+{
+    titulo: "Insalubridade e Periculosidade",
+    descricao: "Condições de trabalho que expõem o trabalhador a agentes nocivos à saúde, gerando direito a adicionais salariais.",
+    link: "https://itamedi.com.br/insalubridade-e-periculosidade/",
+    tags: "insalubridade periculosidade condições de trabalho"
+},
+{
+    titulo: "Acidentes de Trabalho com Máquinas e Equipamentos",
+    descricao: "Acidentes causados pelo contato com máquinas e equipamentos, como prensas, máquinas operatrizes, elevadores e outros.",
+    link: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-12-atualizada-2022-1.pdf",
+    tags: "acidentes com máquinas equipamentos segurança industrial"
+},
+{
+    titulo: "Trabalho em Espaços Confinados",
+    descricao: "Trabalho realizado em locais com espaço confinado, como tanques, silos, poços, etc., que exigem cuidados especiais para garantir a segurança dos trabalhadores.",
+    link: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/canpat-2/canpat-2022/sergio-garcia-trabalho-em-espacos-confinados-nr-33.pdf",
+    tags: "espaços confinados segurança do trabalho"
+},
+{
+    titulo: "Investigação de Acidentes de Trabalho",
+    descricao: "Processo de análise de um acidente de trabalho para identificar as causas e implementar medidas corretivas.",
+    link: "https://www.institutosc.com.br/web/blog/analise-e-investigacao-de-acidente-de-trabalho:-como-fazer-de-forma-eficiente",
+    tags: "investigação de acidentes segurança do trabalho prevenção"
+},{
     titulo: "Ergonomia",
     descricao: "Estudo das relações entre o homem e o seu trabalho, buscando adaptar as condições de trabalho às características físicas e psicológicas do trabalhador, visando prevenir doenças ocupacionais.",
     link: "https://rockcontent.com/br/blog/ergonomia-no-trabalho/#:~:text=A%20ergonomia%20no%20trabalho%20%C3%A9%20uma%20%C3%A1rea%20de%20estudo%20que,LERs%2C%20dores%20ou%20qualquer%20dificuldade./",
@@ -51,7 +104,7 @@ let dados = [{
 },{
     titulo: "Riscos Ergonômicos",
     descricao: "Fatores relacionados ao trabalho que podem causar doenças osteomusculares, distúrbios do sistema nervoso e transtornos mentais.",
-    link: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/riscos-ergonomicos",
+    link: "https://www.fiocruz.br/biosseguranca/Bis/lab_virtual/riscos_ergonomicos.html#:~:text=S%C3%A3o%20considerados%20riscos%20ergon%C3%B4micos%3A%20esfor%C3%A7o,repetitividade%2C%20imposi%C3%A7%C3%A3o%20de%20rotina%20intensa.",
     tags: "ergonomia postura trabalho repetitivo"
 },{
     titulo: "Acidentes com Veículos",
