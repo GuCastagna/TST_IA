@@ -60,3 +60,5 @@ Se você é um profissional da área de segurança do trabalho e quer ajudar a m
 * **Utilize badges:** Mostre as tecnologias utilizadas e a licença do projeto.
 
 Com este README bem elaborado, você atrairá mais pessoas para o seu projeto e facilitará a colaboração.
+
+Link para a versão definitiva: https://tst-ia.vercel.app/
